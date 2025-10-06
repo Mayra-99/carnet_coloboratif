@@ -1,1 +1,2 @@
 "carnet collaboratif alice et bob"
+TACHES BOB -Reviser la documentation 
