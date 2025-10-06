@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-carnet collaboratif Version entreprise
-=======
-"carnet collaboratif Version Personelle
->>>>>>> d31618ea020928780a482c6a5a37e89008f23d06
-TACHES BOB -Reviser la documentation 
 'carnet fusionversion entreprise et personnelle'
