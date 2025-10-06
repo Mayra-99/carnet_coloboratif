@@ -1,2 +1,2 @@
-"carnet collaboratif alice et bob"
+carnet collaboratif Version entreprise
 TACHES BOB -Reviser la documentation 
